@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @GrenadeBR
-- 👀 I’m interested in Coding, Fortnite Leaking
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Fortnite Modding Projects (Such as Private servers, bots etc)
+- 👋 Hi, I’m Grenade
+- 👀 I Post Stuff on the Internet 
 - 📫 How to reach me Twitter: @GrenadeBR.
 
 <!---
